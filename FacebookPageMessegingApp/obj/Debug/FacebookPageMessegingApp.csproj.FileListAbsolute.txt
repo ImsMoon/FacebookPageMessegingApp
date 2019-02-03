@@ -23,3 +23,464 @@ C:\Users\imtiyaz\source\repos\FacebookPageMessegingApp\FacebookPageMessegingApp\
 C:\Users\imtiyaz\source\repos\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
 C:\Users\imtiyaz\source\repos\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
 C:\Users\imtiyaz\source\repos\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1.mdf
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1_log.ldf
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1.mdf
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1_log.ldf
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe.config
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.AddNotes.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageReplyForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ManageQuickReplyForm.resources
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1.mdf
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1_log.ldf
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe.config
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.pdb
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ManageQuickReplyForm.resources
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.exe
+C:\Users\shourav\Downloads\Video\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1.mdf
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1_log.ldf
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe.config
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ManageQuickReplyForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.pdb
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1.mdf
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1_log.ldf
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe.config
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.pdb
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.exe
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1.mdf
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Database1_log.ldf
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe.config
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\FacebookPageMessegingApp.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppV2\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+C:\Users\shourav\Downloads\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ContactForm.resources
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\shourav\Desktop\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ContactForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingAppLatest\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ContactForm.resources
+C:\Users\shourav\Downloads\Compressed\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ContactForm.resources
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+C:\Users\Naiem\Downloads\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\System.Data.SQLite.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ContactForm.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+E:\Learning Code (4th Apr 2014)\Messages Manager by\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Owin.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Json.pdb
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ContactForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+C:\Users\imtiyaz\Downloads\Compressed\FacebookPageMessegingApp\Working page messeing\5.11.PageManager\FacebookPageMessegingApp (2)\FacebookPageMessegingApp\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Json.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Owin.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\System.Data.SQLite.dll
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Json.pdb
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ContactForm.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+E:\Learning Code (4th Apr 2014)\Messages Manager by\Imtiaz\13 Nov 2018 Imtiyaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.config
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe.manifest
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.application
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.exe
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Message Manager V 1.0.pdb
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Facebook.dll
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Json.dll
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.dll
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.dll
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.dll
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Owin.dll
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\System.Data.SQLite.dll
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Facebook.xml
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Json.pdb
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.xml
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.xml
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\bin\Debug\Newtonsoft.Json.xml
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ContactForm.resources
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.FacebookLoginDialog.resources
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Form1.resources
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.LabelManageForm.resources
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.MessageAnaliticsForm.resources
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.ProfileWebbrowser.resources
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.Properties.Resources.resources
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.QuickReplyManage.resources
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.GenerateResource.cache
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CoreCompileInputs.cache
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe.manifest
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.application
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csproj.CopyComplete
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.exe
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\Message Manager V 1.0.pdb
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.csprojAssemblyReference.cache
+E:\app\2019\Imtiaz\FacebookPageMessegingApp2\FacebookPageMessegingApp\obj\Debug\FacebookPageMessegingApp.AutoMessageForm.resources

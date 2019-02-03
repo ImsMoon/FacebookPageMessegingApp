@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FacebookLoginDialog));
             this.webBrowser = new System.Windows.Forms.WebBrowser();
             this.SuspendLayout();
             // 
@@ -40,7 +41,6 @@
             this.webBrowser.Size = new System.Drawing.Size(800, 450);
             this.webBrowser.TabIndex = 0;
             this.webBrowser.Navigated += new System.Windows.Forms.WebBrowserNavigatedEventHandler(this.webBrowser_Navigated);
-
             // 
             // FacebookLoginDialog
             // 
@@ -48,11 +48,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.webBrowser);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FacebookLoginDialog";
-            this.Text = "FacebookLoginDialog";
-            this.ResumeLayout(false);
+            this.Text = "Facebook Login Dialog";
             this.Load += new System.EventHandler(this.FacebookLoginDialog_Load);
-
+            this.ResumeLayout(false);
 
         }
 
